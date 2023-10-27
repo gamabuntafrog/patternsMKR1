@@ -1,3 +1,6 @@
+// В цьому завданні використовується шаблон ФАСАД
+
+
 class GoogleTranslate {
   translate(text, lentgh, fromLanguage, toLanguage) {
     console.log(
